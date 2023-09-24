@@ -37,6 +37,15 @@ const questions =[
             {text:"Kerela",correct:false}
         ]
     },
+    {
+        questions:"How many Gold Medals has India won at Olympics?",
+        answers:[
+            {text:"12",correct: false},
+            {text:"10",correct: true},
+            {text:"8",correct: false},
+            {text:"32",correct:false}
+        ]
+    },
 
 ];
 const questionElement = document.getElementById("question");

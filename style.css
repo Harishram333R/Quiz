@@ -6,7 +6,7 @@
 }
 body{
     height: 100vh;
-    background-image: url("quiz.jpg");
+    background-image: url("img2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -19,6 +19,7 @@ body{
     margin: 180px auto 0;
     border-radius: 10px;
     padding: 30px;
+    margin-top: 300px
 }
 .app h1{
     font-size: 25px;
